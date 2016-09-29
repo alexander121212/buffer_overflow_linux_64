@@ -6,5 +6,4 @@ all:
 
 clean:
 	rm -rf bof
-	rm -rf code 
 	rm -rf *.o
